@@ -10,3 +10,5 @@ for var in num_vars:
 	
 for cat in cat_vars: 
 	print(cleaned_data[cat].value_counts())
+
+repo test
